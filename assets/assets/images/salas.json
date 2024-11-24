@@ -1,0 +1,215 @@
+[
+    {
+      "nome": "ALIANÇA",
+      "telefone": [
+        "2211-4424",
+        "2211-4434"
+      ],
+      "endereco": "RUA E, 29 - MONTE SIÃO",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.69664",
+      "longitude": "-43.83746"
+    },
+    {
+      "nome": "ARIOSTO",
+      "telefone": [
+        "2211-4281",
+        "2211-4282"
+      ],
+      "endereco": "RUA NELSON ALKIMIM, 120 - JARDIM ALVORADA, MONTES",
+      "funcionamento": [
+        "08:00",
+        "18:30"
+      ],
+      "latitude": "-16.739983444140943",
+      "longitude": "-43.84741272190692"
+    },
+    {
+      "nome": "ALTEROSA",
+      "telefone": [
+        "2211-4477",
+        "2211-4478"
+      ],
+      "endereco": "RUA K, 81 - JOSE CORREA MACHADO",
+      "funcionamento": [
+        "08:00",
+        "18:30"
+      ],
+      "latitude": "-16.770796425411206",
+      "longitude": "-43.863013654643964"
+    },
+    {
+      "nome": "ANTÔNIO PIMENTA",
+      "telefone": [
+        "2211-4468"
+      ],
+      "endereco": "ROSA MENDES FERREIRA, 336 - ANTÔNIO PIMENTA",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.74295656681556",
+      "longitude": "-43.85488269822868"
+    },
+    {
+      "nome": "CINTRA",
+      "telefone": [
+        "2211-4455",
+        "2211-4456"
+      ],
+      "endereco": "RUA MONTE PLANO, 892 - CINTRA",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.73283",
+      "longitude": "-43.85261"
+    },
+    {
+      "nome": "DELFINO",
+      "telefone": [
+        "2211-4338",
+        "2211-4339"
+      ],
+      "endereco": "AV NECO DELFINO, 289 - DELFINO",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.74056",
+      "longitude": "-43.84012"
+    },
+    {
+      "nome": "ELDORADO",
+      "telefone": [
+        "2211-4471",
+        "2211-4479"
+      ],
+      "endereco": "RUA ANTÔNIO MORENO, 417 - ELDORADO",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.68957129606987",
+      "longitude": "-43.877623412049715"
+    },
+    {
+      "nome": "ESPLANADA",
+      "telefone": [
+        "2211-4473",
+        "2211-4474"
+      ],
+      "endereco": "RUA CEL. COELHO, 195 - ESPLANADA",
+      "funcionamento": [
+        "08:00",
+        "21:00"
+      ],
+      "latitude": "-16.71269",
+      "longitude": "-43.8418"
+    },
+    {
+      "nome": "FUNORTE",
+      "telefone": [],
+      "endereco": "R. PLÍNIO RIBEIRO, 539 - JARDIM BRASIL",
+      "funcionamento": [
+        "08:00",
+        "17:00"
+      ],
+      "latitude": "-16.69594445676722",
+      "longitude": "-43.86355906132859"
+    },
+    {
+      "nome": "INDEPENDÊNCIA",
+      "telefone": [
+        "2211-4481",
+        "2211-4482"
+      ],
+      "endereco": "RUA ESPANHA, 150 - INDEPENDÊNCIA",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.7169472088757",
+      "longitude": "-43.81226431356363"
+    },
+    {
+      "nome": "INDUSTRIAL",
+      "telefone": [],
+      "endereco": "RUA SÃO MIGUEL, 482 - INDUSTRIAL",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.74121767907339",
+      "longitude": "-43.8156934384193"
+    },
+    {
+      "nome": "IRR",
+      "telefone": [
+        "2211-4475"
+      ],
+      "endereco": "RUA SÃO JOÃO, 325 - IRR",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.72485131798241",
+      "longitude": "-43.87166240941253"
+    },
+    {
+      "nome": "JARDIM ALVORADA",
+      "telefone": [
+        "2211-4476",
+        "2211-4487"
+      ],
+      "endereco": "AV DR. GUIMARÃES, 78 - JARDIM ALVORADA",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.74723945593226",
+      "longitude": "-43.84151707116213"
+    },
+    {
+      "nome": "JOÃO XXIII",
+      "telefone": [
+        "2211-4283"
+      ],
+      "endereco": "AV RUA JOÃO, 192 - JOÃO XXIII",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.74784915452711",
+      "longitude": "-43.82597887409129"
+    },
+    {
+      "nome": "MORADA NOVA",
+      "telefone": [],
+      "endereco": "RUA BEIRA RIO, 45 - MORADA NOVA",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.76945876796511",
+      "longitude": "-43.86875128761038"
+    },
+    {
+      "nome": "PROGRESSO",
+      "telefone": [
+        "2211-4426",
+        "2211-4427"
+      ],
+      "endereco": "RUA JOAQUIM BARBOSA, 50 - PROGRESSO",
+      "funcionamento": [
+        "08:00",
+        "18:00"
+      ],
+      "latitude": "-16.696592449983748",
+      "longitude": "-43.83687531825589"
+    }
+  ]
+  
